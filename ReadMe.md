@@ -1,6 +1,6 @@
 # DTU Training & Placement Department - Secure Data Sharing Portal
 
-**Live Demo:** [https://xyz.app](https://your-vercel-deployment-link.vercel.app)
+**Live Demo:** [Visit here](https://tnp-dtu-share-link-securely.vercel.app/)
 ---
 
 *This project was completed as part of 1 Day technical challenge by TnP Department, DTU. [View Problem Statement](https://manitvig.github.io/dtu-tnp-dev-team-recruitment-2025/)*
