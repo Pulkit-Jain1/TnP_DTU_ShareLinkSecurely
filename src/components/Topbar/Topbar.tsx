@@ -19,7 +19,7 @@ const Topbar: React.FC = () => {
 				</span>
 				
 				<span className='font-bold text-xl text-white md:hidden'>
-					T&P, DTU
+					T&P
 				</span>
 			</a>
 		
