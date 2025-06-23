@@ -1,6 +1,6 @@
-# DTU Training & Placement Department - Secure Data Sharing Portal
+# DTU Training & Placement Department Challenge - Secure Data Sharing Portal
 
-**Live Demo:** [Visit here](https://tnp-dtu-share-link-securely.vercel.app/)
+**Live Demo:** [Visit here](pullkit-jain-recruitment.vercel.app)
 ---
 
 *This project was completed as part of 1 Day technical challenge by TnP Department, DTU. [View Problem Statement](https://manitvig.github.io/dtu-tnp-dev-team-recruitment-2025/)*
@@ -51,12 +51,12 @@ To run this project on your local machine, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Pulkit-Jain1/TnP_DTU_ShareLinkSecurely.git
+    git clone https://github.com/Pulkit-Jain1/PullkitJain-recruitment.git
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd TnP_DTU_ShareLinkSecurely
+    cd PullkitJain-recruitment
     ```
 
 3.  **Install dependencies:**
